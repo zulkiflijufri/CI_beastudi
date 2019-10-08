@@ -69,8 +69,9 @@ Acknowledgement
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
 
-
+*********
 Instalasi
+*********
 
 - Setelah di clone atau didownload, rename file terlebih dahulu menjadi beastudi, kemudian pindahkan ke direktory C:/xampp/htdocs (untuk windows)
 - Import database melalui phpmyadmin yang berada didalam direktori beastudi/db, dengan nama database beastudi_nf
