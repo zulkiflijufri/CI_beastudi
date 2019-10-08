@@ -75,6 +75,5 @@ Instalasi
 
 - Setelah di clone atau didownload, rename file terlebih dahulu menjadi beastudi, kemudian pindahkan ke direktory C:/xampp/htdocs (untuk windows)
 - Import database melalui phpmyadmin yang berada didalam direktori beastudi/db, dengan nama database beastudi_nf
-- Konfigurasi base_url menjadi http://localhost/beastudi/ didalam direktori application/config/config.php (line 26), konfigurasi juga database didalam direktori application/config/database.php (line 76) sesuaikan nama database yang telah diimport sebelumnya
 - Lalu unzip file libraries.zip yang berada didalam direktori beastudi/application.
 - Jalankan aplikasi dan import file .exel yang berada didalam direktori beastudi/exel
