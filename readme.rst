@@ -77,3 +77,8 @@ Instalasi
 - Import database melalui phpmyadmin yang berada didalam direktori beastudi/db, dengan nama database beastudi_nf
 - Lalu unzip file libraries.zip yang berada didalam direktori beastudi/application.
 - Jalankan aplikasi dan import file .exel yang berada didalam direktori beastudi/exel
+
+******
+Source
+******
+https://www.youtube.com/watch?v=ZLuiaIPx8l0
